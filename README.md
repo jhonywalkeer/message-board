@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="40%"  alt="Messages Board" src="./front-end/src/assets/icon-repo-messages.svg" />
+    <img width="40%"  alt="Messages Board" src="./frontend/src/assets/icon-repo-messages.svg" />
 </h1>
 
 ## 💻 Project summary
@@ -114,23 +114,23 @@ $ cd code .
 After accessing, press the shortcut keys `CTRL + SHIFT + P` and type `sqlite` (remember to have the extension installed because if it isn't, it won't work) and you will be presented with the following options:
 
 <h1 align="center">
-    <img width="50%"  alt="Messages Board" src="./front-end/src/assets/sqlite-options.png" />
+    <img width="50%"  alt="Messages Board" src="./frontend/src/assets/sqlite-options.png" />
 </h1>
 
 Now select the option `SQLite: Open Database` and select the database of the project which is named `dev.db`
 
 <h1 align="center">
-    <img width="50%"  alt="Messages Board" src="./front-end/src/assets/sqlite-select.png" />
+    <img width="50%"  alt="Messages Board" src="./frontend/src/assets/sqlite-select.png" />
 </h1>
 
 <h1 align="center">
-    <img width="50%"  alt="Messages Board" src="./front-end/src/assets/sqlite-database.png" />
+    <img width="50%"  alt="Messages Board" src="./frontend/src/assets/sqlite-database.png" />
 </h1>
 
 There will be available a tab named `SQLITE EXPLORER` and now you can view the database inside VSCode in a simple way
 
 <h1 align="center">
-    <img width="40%"  alt="Messages Board" src="./front-end/src/assets/sqlite-database-open.png" />
+    <img width="40%"  alt="Messages Board" src="./frontend/src/assets/sqlite-database-open.png" />
 </h1>
 
 To run the frontend only:
