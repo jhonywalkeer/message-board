@@ -44,7 +44,7 @@ Last but not least, let's talk about the **frontend**, it was created using **Re
 
 ## 🔨 Local Installation
 
-You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to use [Yarn](https://yarnpkg.com/) you can also just have it on your computer to continue.
+You need **[Node.js](https://nodejs.org)** version 10 or higher, but if you want to use **[Yarn](https://yarnpkg.com/)** you can also just have it on your computer to continue.
 
 ```bash
 git clone https://github.com/jhonywalkeer/typescript-node.git
