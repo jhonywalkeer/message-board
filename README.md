@@ -32,7 +32,7 @@ First, let's talk about the **backend**, it was created using **Node.js**, **Typ
 
 - **[Jest](https://www.npmjs.com/package/jest)** - Is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly.
 
-- **[Prettier](https://www.npmjs.com/package/jest)** - Is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- **[Prettier](https://www.npmjs.com/package/prettier)** - Is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
 - **[Supertest](https://www.npmjs.com/package/supertest)** - Module provides a high-level abstraction for testing HTTP, while still allowing you to go to the lower-level API provided by superagent.
 
